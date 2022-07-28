@@ -1,5 +1,5 @@
-# This script is designed to map the antigenic cartography of incomplete datasets
-# Written by Will Conrad
+# This script is designed to map the antigenic cartography of neutralization and avidity datasets
+# Written by Helen Conrad
 # most recently modified 02/07/2022 
 #install the package for the antigenic cartography
 #install.packages("stringr","devtools", "rainbow", "rgl","reshape2","Rcpp","seqinr","ape")
